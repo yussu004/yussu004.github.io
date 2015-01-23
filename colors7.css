@@ -1,0 +1,24 @@
+body {
+	background-color: #CCC;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif
+}
+
+body,td,th {
+	color: #333;
+}
+h1 {
+	color: #333;
+}
+h2 {
+	color: #996633;
+}
+h3 {
+	color: #FC0;
+}
+h4, h5, h6 {
+	color: #F90;
+}
+
+a {
+	color: #F90;
+}
